@@ -16,8 +16,8 @@ C=c[38]
 B.lw.prototype={
 L(){return"StatementsPeriod."+this.b}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(B.lw,A.ws)})();(function constants(){C.DM=new B.lw(0,"month")
-C.c_b=new B.lw(1,"lastMonth")
-C.c_c=new B.lw(2,"year")
-C.a1u=new A.ci([C.DM,"\u0647\u0630\u0627 \u0627\u0644\u0634\u0647\u0631",C.c_b,"\u0627\u0644\u0634\u0647\u0631 \u0627\u0644\u0645\u0627\u0636\u064a",C.c_c,"\u0647\u0630\u0647 \u0627\u0644\u0633\u0646\u0629"],A.a7("ci<lw,d>"))})()};
-(a=>{a["2zqF/hOQHVfBvnwpDFuayXtvWpo="]=a.current})($__dart_deferred_initializers__);
+y(B.lw,A.ws)})();(function constants(){C.DS=new B.lw(0,"month")
+C.c_r=new B.lw(1,"lastMonth")
+C.c_s=new B.lw(2,"year")
+C.a1x=new A.ci([C.DS,"\u0647\u0630\u0627 \u0627\u0644\u0634\u0647\u0631",C.c_r,"\u0627\u0644\u0634\u0647\u0631 \u0627\u0644\u0645\u0627\u0636\u064a",C.c_s,"\u0647\u0630\u0647 \u0627\u0644\u0633\u0646\u0629"],A.a7("ci<lw,d>"))})()};
+(a=>{a["wLBDkUOftxZ21tnUEqfrMHmqidE="]=a.current})($__dart_deferred_initializers__);
