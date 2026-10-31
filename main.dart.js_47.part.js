@@ -17,7 +17,7 @@ B.lG.prototype={
 L(){return"StatementsPeriod."+this.b}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
 y(B.lG,A.wB)})();(function constants(){C.DV=new B.lG(0,"month")
-C.c0L=new B.lG(1,"lastMonth")
-C.c0M=new B.lG(2,"year")
-C.a1M=new A.cr([C.DV,"\u0647\u0630\u0627 \u0627\u0644\u0634\u0647\u0631",C.c0L,"\u0627\u0644\u0634\u0647\u0631 \u0627\u0644\u0645\u0627\u0636\u064a",C.c0M,"\u0647\u0630\u0647 \u0627\u0644\u0633\u0646\u0629"],A.a7("cr<lG,c>"))})()};
-(a=>{a["Sk4AGC9od6S2vKS+fhvKi5tFizU="]=a.current})($__dart_deferred_initializers__);
+C.c0M=new B.lG(1,"lastMonth")
+C.c0N=new B.lG(2,"year")
+C.a1M=new A.cr([C.DV,"\u0647\u0630\u0627 \u0627\u0644\u0634\u0647\u0631",C.c0M,"\u0627\u0644\u0634\u0647\u0631 \u0627\u0644\u0645\u0627\u0636\u064a",C.c0N,"\u0647\u0630\u0647 \u0627\u0644\u0633\u0646\u0629"],A.a7("cr<lG,c>"))})()};
+(a=>{a["BXm2MYkpJuB3WdiLNeKUqy31hYA="]=a.current})($__dart_deferred_initializers__);
