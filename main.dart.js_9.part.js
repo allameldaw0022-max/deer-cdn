@@ -2,5 +2,5 @@
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B
 A=c[0]
 B=c[67]
-var z=a.updateTypes([]);(function constants(){B.Mh=new A.de(null,null,null,"\u0645\u0644\u0627\u062d\u0638\u0629 (\u0627\u062e\u062a\u064a\u0627\u0631\u064a)",null,null,null,null,null,null,null,null,null,null,null,null,!0,!0,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null)})()};
-(a=>{a["aHjGUCo7TUxWDJGsipO6c5Mgxcs="]=a.current})($__dart_deferred_initializers__);
+var z=a.updateTypes([]);(function constants(){B.Mh=new A.d_(null,null,null,"\u0645\u0644\u0627\u062d\u0638\u0629 (\u0627\u062e\u062a\u064a\u0627\u0631\u064a)",null,null,null,null,null,null,null,null,null,null,null,null,!0,!0,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null)})()};
+(a=>{a["g2hH4NckXG4ApoHgs9hUiwRv5Bc="]=a.current})($__dart_deferred_initializers__);
