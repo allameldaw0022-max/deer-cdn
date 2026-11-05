@@ -4,5 +4,5 @@ A=c[0]
 C=c[2]
 B=c[75]
 var z=a.updateTypes([]);(function constants(){B.BE=new A.aV(C.BA,null,null,null,null,null)
-B.G2=new A.L("\u0639\u0645\u064a\u0644 \u062c\u062f\u064a\u062f",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()};
-(a=>{a["fvh1VgiL/sYEE1z5K4j4ZAvRwio="]=a.current})($__dart_deferred_initializers__);
+B.G2=new A.K("\u0639\u0645\u064a\u0644 \u062c\u062f\u064a\u062f",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()};
+(a=>{a["hq9BhAsrgpZTukZ7Sgt+1azMzDM="]=a.current})($__dart_deferred_initializers__);
