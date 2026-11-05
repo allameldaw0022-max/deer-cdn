@@ -1,14 +1,14 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C={
-LE(d){var y,x
+LJ(d){var y,x
 if(d==null)y=null
 else{x=A.bc("[^0-9+]",!0,!1)
-x=A.a8(d,x,"")
+x=A.a2(d,x,"")
 y=x}if(y==null)y=""
-return y.length>=6?A.eT("tel:"+y,0,null):null}},B
+return y.length>=6?A.eU("tel:"+y,0,null):null}},B
 A=c[0]
 C=a.updateHolder(c[47],C)
-B=c[76]
-var z=a.updateTypes([]);(function constants(){B.aAf=new A.be(61210,"MaterialIcons",!1)
-B.BG=new A.aV(B.aAf,null,null,null,null,null)})()};
-(a=>{a["Ccdwk2+ki44W3JfNdGmGTRdGCs4="]=a.current})($__dart_deferred_initializers__);
+B=c[77]
+var z=a.updateTypes([]);(function constants(){B.aAk=new A.bd(61210,"MaterialIcons",!1)
+B.BK=new A.aV(B.aAk,null,null,null,null,null)})()};
+(a=>{a["mjONGwp6AzvzjmZ6oAsf+kSztUI="]=a.current})($__dart_deferred_initializers__);
