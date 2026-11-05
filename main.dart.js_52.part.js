@@ -1,6 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var J,B,D,A={cp4:function cp4(){},NB:function NB(d){this.a=d},
-cQe(){var x=null,w=B.oZ(x,y.j)
+$__dart_deferred_initializers__.current=function(a,b,c,$){var J,B,D,A={cp5:function cp5(){},NB:function NB(d){this.a=d},
+cQe(){var x=null,w=B.p_(x,y.j)
 w=new A.ae0(A.d_4(),new A.bkb(w),x,x,x,x,x,x,B.ed(0,0,0,300,0,0))
 w.aMM()
 return w},
@@ -77,15 +77,15 @@ _.x=l
 _.y=m
 _.z=n
 _.Q=o},
-cms(d){var x=0,w=B.k(y.p),v
-var $async$cms=B.f(function(e,f){if(e===1)return B.h(f,w)
+cmt(d){var x=0,w=B.k(y.p),v
+var $async$cmt=B.f(function(e,f){if(e===1)return B.h(f,w)
 for(;;)switch(x){case 0:x=3
-return B.d(B.d8X(B.eU(d,0,null),null),$async$cms)
+return B.d(B.d8X(B.eU(d,0,null),null),$async$cmt)
 case 3:v=f.w
 x=1
 break
 case 1:return B.i(v,w)}})
-return B.j($async$cms,w)},
+return B.j($async$cmt,w)},
 cvD(d){var x=0,w=B.k(y.N),v
 var $async$cvD=B.f(function(e,f){if(e===1)return B.h(f,w)
 for(;;)switch(x){case 0:v=""
@@ -94,7 +94,7 @@ break
 case 1:return B.i(v,w)}})
 return B.j($async$cvD,w)},
 pJ(d,e){var x
-A:{if("ai_budget"===d){x=$.y().f
+A:{if("ai_budget"===d){x=$.x().f
 x=x==="SD"||x==="SS"?"\u0627\u0644\u0623\u0648\u0627\u0645\u0631 \u0627\u0644\u0635\u0648\u062a\u064a\u0629 \u0645\u0634\u063a\u0648\u0644\u0629 \u0627\u0644\u064a\u0648\u0645. \u062c\u0631\u0651\u0628 \u0628\u0639\u062f \u0634\u0648\u064a\u0629\u060c \u0623\u0648 \u0623\u062f\u062e\u0644 \u064a\u062f\u0648\u064a\u0627\u064b.":"\u0627\u0644\u0623\u0648\u0627\u0645\u0631 \u0627\u0644\u0635\u0648\u062a\u064a\u0629 \u0645\u0634\u063a\u0648\u0644\u0629 \u0627\u0644\u064a\u0648\u0645. \u062c\u0631\u0651\u0628 \u0628\u0639\u062f \u0642\u0644\u064a\u0644\u060c \u0623\u0648 \u0623\u062f\u062e\u0644 \u064a\u062f\u0648\u064a\u0627\u064b."
 break A}if("voice_limit_reached"===d){x=e?"\u0627\u0646\u062a\u0647\u062a \u0623\u0648\u0627\u0645\u0631\u0643 \u0627\u0644\u0635\u0648\u062a\u064a\u0629. \u0623\u062f\u062e\u0644 \u064a\u062f\u0648\u064a\u0627\u064b \u0623\u0648 \u0631\u0642\u0651 \u0628\u0627\u0642\u062a\u0643.":"\u0648\u0635\u0644\u062a \u062d\u062f \u0627\u0644\u0623\u0648\u0627\u0645\u0631 \u0627\u0644\u0635\u0648\u062a\u064a\u0629 \u0644\u0647\u0630\u0627 \u0627\u0644\u0634\u0647\u0631. \u0623\u062f\u062e\u0644 \u064a\u062f\u0648\u064a\u0627\u064b."
 break A}if("voice_disabled"===d){x="\u0627\u0644\u0623\u0648\u0627\u0645\u0631 \u0627\u0644\u0635\u0648\u062a\u064a\u0629 \u063a\u064a\u0631 \u0645\u062a\u0627\u062d\u0629 \u0641\u064a \u0628\u0627\u0642\u062a\u0643 \u0627\u0644\u062d\u0627\u0644\u064a\u0629."
@@ -104,7 +104,7 @@ break A}if("not_understood"===d){x="\u0644\u0645 \u0623\u0641\u0647\u0645 \u0627
 break A}if("audio_too_large"===d){x="\u0627\u0644\u062a\u0633\u062c\u064a\u0644 \u0637\u0648\u064a\u0644. \u0627\u062e\u062a\u0635\u0631 \u0627\u0644\u0623\u0645\u0631."
 break A}if("network"===d){x="\u0627\u0644\u0623\u0648\u0627\u0645\u0631 \u0627\u0644\u0635\u0648\u062a\u064a\u0629 \u062a\u062d\u062a\u0627\u062c \u0625\u0646\u062a\u0631\u0646\u062a. \u0623\u062f\u062e\u0644 \u064a\u062f\u0648\u064a\u0627\u064b."
 break A}if("local_unsupported"===d){x="\u062e\u062f\u0645\u0629 \u0627\u0644\u0635\u0648\u062a \u0645\u062a\u0648\u0642\u0641\u0629 \u0627\u0644\u0622\u0646\u060c \u0648\u0645\u062a\u0635\u0641\u062d\u0643 \u0644\u0627 \u064a\u062f\u0639\u0645 \u0627\u0644\u0641\u0647\u0645 \u0645\u0646 \u0627\u0644\u062c\u0647\u0627\u0632. \u062c\u0631\u0651\u0628 \u0628\u0639\u062f \u0642\u0644\u064a\u0644 \u0623\u0648 \u0623\u062f\u062e\u0644 \u064a\u062f\u0648\u064a\u0627\u064b."
-break A}if("local_not_understood"===d){x=$.y().f
+break A}if("local_not_understood"===d){x=$.x().f
 x=x==="SD"||x==="SS"?"\u0645\u0627 \u0642\u062f\u0631\u062a \u0623\u0641\u0647\u0645 \u0627\u0644\u0623\u0645\u0631. \u0642\u0644\u0647 \u0628\u0637\u0631\u064a\u0642\u0629 \u062a\u0627\u0646\u064a\u0629\u060c \u0645\u062b\u0644\u0627\u064b: \xab\u0628\u0639\u062a \u0643\u064a\u0644\u0648 \u0633\u0643\u0631 \u0644\u0623\u062d\u0645\u062f\xbb.":"\u0644\u0645 \u0623\u0641\u0647\u0645 \u0627\u0644\u0623\u0645\u0631. \u0642\u0644\u0647 \u0628\u0637\u0631\u064a\u0642\u0629 \u0623\u062e\u0631\u0649\u060c \u0645\u062b\u0644\u0627\u064b: \xab\u0628\u0639\u062a \u0643\u064a\u0644\u0648 \u0633\u0643\u0631 \u0644\u0623\u062d\u0645\u062f\xbb."
 break A}if("mic_denied"===d){x="\u0644\u0645 \u064a\u064f\u0633\u0645\u062d \u0644\u0644\u062a\u0637\u0628\u064a\u0642 \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0627\u0644\u0645\u064a\u0643\u0631\u0648\u0641\u0648\u0646. \u0641\u0639\u0651\u0644 \u0627\u0644\u0625\u0630\u0646 \u0645\u0646 \u0625\u0639\u062f\u0627\u062f\u0627\u062a \u0627\u0644\u062c\u0647\u0627\u0632."
 break A}if("forbidden"===d){x="\u0644\u064a\u0633\u062a \u0644\u062f\u064a\u0643 \u0635\u0644\u0627\u062d\u064a\u0629 \u0644\u0644\u0623\u0648\u0627\u0645\u0631 \u0627\u0644\u0635\u0648\u062a\u064a\u0629."
@@ -160,7 +160,7 @@ return B.d(u.a.d_(0),$async$d_)
 case 3:t=f
 if(t==null||t.length===0){v=null
 x=1
-break}v=A.cms(t)
+break}v=A.cmt(t)
 x=1
 break
 case 1:return B.i(v,w)}})
@@ -210,7 +210,7 @@ case 2:return B.i(null,w)}})
 return B.j($async$l1,w)},
 d_(d){return this.pO(new A.aP6(this),y.T)},
 aH(d){return this.pO(new A.aP_(this),y.H)},
-ql(){return this.pO(new A.aP4(this),y.y)},
+qm(){return this.pO(new A.aP4(this),y.y)},
 vI(){return this.pO(new A.aP2(this,!0),y.y)},
 pq(){return this.pO(new A.aP1(this),y.g)},
 XW(d){return this.pO(new A.aP3(this,d),y.y)},
@@ -282,7 +282,7 @@ return B.P(["encoder",x.a.b,"bitRate",x.b,"sampleRate",x.c,"numChannels",x.d,"de
 j(d){var x=this
 return"RecordConfig(\n  encoder: "+x.a.j(0)+",\n  bitRate: "+x.b+",\n  sampleRate: "+x.c+",\n  numChannels: "+x.d+",\n  device: "+B.p(x.e)+",\n  autoGain: "+x.f+",\n  echoCancel: "+x.r+",\n  noiseSuppress: "+x.w+",\n  audioInterruption: "+x.z.j(0)+",\n  streamBufferSize: "+B.p(x.Q)+",\n)"}}
 var z=a.updateTypes(["NB(aA)","A<D>()","A<pQ>()","~(mJ)","c(yM)"])
-A.cp4.prototype={
+A.cp5.prototype={
 $1(d){return new A.NB(A.cQe())},
 $S:z+0}
 A.c1l.prototype={
@@ -374,10 +374,10 @@ A.b2h.prototype={
 $1(d){return d.b},
 $S:z+4};(function installTearOffs(){var x=a._instance_0u,w=a._instance_1u
 var v
-x(v=A.ae0.prototype,"gbsY","ql",1)
+x(v=A.ae0.prototype,"gbsY","qm",1)
 x(v,"gaDO","pq",2)
 w(v,"gaXY","aXZ",3)})();(function inheritance(){var x=a.mixin,w=a.inheritMany,v=a.inherit
-w(B.fF,[A.cp4,A.c1j,A.c1k,A.brJ,A.b2h])
+w(B.fF,[A.cp5,A.c1j,A.c1k,A.brJ,A.b2h])
 w(B.M,[A.NB,A.buN,A.c1i,A.c2f,A.ayb,A.bkb,A.aO2,A.b2g,A.aq6])
 w(B.hT,[A.c1l,A.aP0,A.aP5,A.aP6,A.aP_,A.aP4,A.aP2,A.aP1,A.aP3])
 v(A.ayc,A.ayb)
@@ -405,6 +405,6 @@ C.bz1=x([D.z4,D.HF,D.qQ],B.a_("z<pS>"))
 C.xD=new B.K(!0,null,null,null,null,null,24,D.a_,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 C.cAy=new B.mY("mic_denied",null)
 C.y8=new B.mY("no_speech",null)})();(function lazyInitializers(){var x=a.lazyFinal
-x($,"dnT","B0",()=>B.dk(new A.cp4(),null,!1,null,null,B.a_("av2")))
-x($,"dhB","cMQ",()=>B.csk())})()};
-(a=>{a["EQMd4HA0F+KtZ3wCxN7Wx55JTYc="]=a.current})($__dart_deferred_initializers__);
+x($,"dnT","B0",()=>B.dk(new A.cp5(),null,!1,null,null,B.a_("av2")))
+x($,"dhB","cMQ",()=>B.csl())})()};
+(a=>{a["CML0P6gcsBLcSmiv3W+Xl0cC6kk="]=a.current})($__dart_deferred_initializers__);

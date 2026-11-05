@@ -72,7 +72,7 @@ case 2:return A.h(t.at(-1),w)}})
 return A.j($async$D7,w)},
 G(d){var x,w,v,u,t=this,s=null,r=A.au(d,B.aA,y.A).w
 r=r.a.a>=1100?760:560
-x=A.a([new A.ei(D.bL3,t.w,new C.buq(t),s,y.l),B.L],y.u)
+x=A.a([new A.ei(D.bL4,t.w,new C.buq(t),s,y.l),B.L],y.u)
 w=t.Q
 if(w!=null)x.push(new A.cj(w,s))
 if(!t.y&&t.Q==null&&t.x.length===0)x.push(D.aDB)
@@ -81,7 +81,7 @@ if(t.y)x.push(B.a46)
 else if(t.z)x.push(A.aQ(D.cjx,D.cA8,s,s,new C.bur(t),s,s))
 return A.cb(new A.dQ("\u0633\u062c\u0644 \u0627\u0644\u062a\u0639\u062f\u064a\u0644\u0627\u062a",B.ll,B.aF,s,s),s,A.bq(!0,A.bp(new A.bv(new A.ap(0,r,0,1/0),A.cd(x,s,s,B.aZ,s,B.V,!1),s),s,s),!0,B.O,!0,!0),s,s)}}
 C.aGx.prototype={
-G(d){var x,w,v,u,t,s,r,q,p,o,n=null,m=this.c,l=D.bNj.h(0,m.b)
+G(d){var x,w,v,u,t,s,r,q,p,o,n=null,m=this.c,l=D.bNk.h(0,m.b)
 if(l==null)l=B.aq
 x=m.a
 w=B.aq.hA(0.2)
@@ -138,10 +138,10 @@ x(C.aGx,A.ar)})()
 A.fS(b.typeUniverse,JSON.parse('{"Fv":{"O":[],"l":[]},"axy":{"a4":["Fv"]},"aGx":{"ar":[],"l":[]}}'))
 var y={x:A.a_("Ci"),g:A.a_("z<Bh>"),u:A.a_("z<l>"),A:A.a_("hl"),l:A.a_("ei<c>"),q:A.a_("n<c>"),o:A.a_("dZ?"),v:A.a_("~")};(function constants(){D.cw5=new A.n("log-empty",y.q)
 D.aDB=new A.cB("\u0644\u0627 \u062a\u0648\u062c\u062f \u0639\u0645\u0644\u064a\u0627\u062a \u0641\u064a \u0627\u0644\u0633\u062c\u0644 \u0628\u0639\u062f.",D.cw5)
-D.bQp={all:0,cancel:1,stock:2,cash:3,settings:4}
-D.bL3=new A.ag(D.bQp,["\u0627\u0644\u0643\u0644","\u0627\u0644\u0625\u0644\u063a\u0627\u0621\u0627\u062a","\u0627\u0644\u0645\u062e\u0632\u0648\u0646","\u0627\u0644\u0635\u0646\u062f\u0648\u0642 \u0648\u0627\u0644\u0628\u0646\u0643","\u0627\u0644\u0625\u0639\u062f\u0627\u062f\u0627\u062a"],A.a_("ag<c,c>"))
+D.bQq={all:0,cancel:1,stock:2,cash:3,settings:4}
+D.bL4=new A.ag(D.bQq,["\u0627\u0644\u0643\u0644","\u0627\u0644\u0625\u0644\u063a\u0627\u0621\u0627\u062a","\u0627\u0644\u0645\u062e\u0632\u0648\u0646","\u0627\u0644\u0635\u0646\u062f\u0648\u0642 \u0648\u0627\u0644\u0628\u0646\u0643","\u0627\u0644\u0625\u0639\u062f\u0627\u062f\u0627\u062a"],A.a_("ag<c,c>"))
 D.bQH={cancel:0,stock:1,cash:2,settings:3}
-D.bNj=new A.ag(D.bQH,[B.ad,F.JF,B.I,B.aq],A.a_("ag<c,Z>"))
+D.bNk=new A.ag(D.bQH,[B.ad,F.JF,B.I,B.aq],A.a_("ag<c,Z>"))
 D.cjx=new A.I("\u0639\u0631\u0636 \u0627\u0644\u0645\u0632\u064a\u062f",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 D.cA8=new A.n("log-more",y.q)})()};
-(a=>{a["twvYk11HvS7loUINxwsyTpHM1NQ="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["q5Hz+XK7ofVKDGt9oqHXSJBYPx0="]=a.current})($__dart_deferred_initializers__);

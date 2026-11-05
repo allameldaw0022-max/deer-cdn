@@ -91,7 +91,7 @@ return A.j($async$A7,w)},
 G(d){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j=this,i=null,h=j.x,g=A.au(d,B.aA,y.w).w
 g=g.a.a>=1100?760:640
 x=y.p
-w=A.a([new A.ei(D.bKp,j.w,new C.bYx(j),i,y.y),B.L],x)
+w=A.a([new A.ei(D.bKq,j.w,new C.bYx(j),i,y.y),B.L],x)
 if(j.Q&&h==null)w.push(D.ajv)
 v=j.z
 if(v!=null)w.push(A.o(v,D.crr,i,i,i,B.f3,i,i))
@@ -100,7 +100,7 @@ u=j.a3S("\u0627\u0644\u0637\u0644\u0628\u0627\u062a",""+v,D.cpk)
 t=h.b
 u=A.a([A.ah(A.a([u,B.be,j.a3S("\u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a",A.E(t),D.cq1),B.be,j.a3S("\u0645\u062a\u0648\u0633\u0637 \u0627\u0644\u0637\u0644\u0628",A.E(h.c),D.csz)],x),B.x,i,B.q,B.r,0,i)],x)
 s=h.d
-if(s>0)u.push(new A.R(B.db,A.o("\u0627\u0644\u0645\u0631\u062a\u062c\u0639\u0627\u062a "+A.E(s)+" \xb7 \u0627\u0644\u0635\u0627\u0641\u064a "+A.E(t-s)+" "+$.y().w,D.czD,i,i,i,B.as,i,i),i))
+if(s>0)u.push(new A.R(B.db,A.o("\u0627\u0644\u0645\u0631\u062a\u062c\u0639\u0627\u062a "+A.E(s)+" \xb7 \u0627\u0644\u0635\u0627\u0641\u064a "+A.E(t-s)+" "+$.x().w,D.czD,i,i,i,B.as,i,i),i))
 if(v===0)u.push(D.bS1)
 else{v=A.a([new A.R(D.ox,A.o("\u0623\u0643\u062b\u0631 \u0627\u0644\u0623\u0635\u0646\u0627\u0641 \u0645\u0628\u064a\u0639\u0627\u064b",i,i,i,i,B.hr,i,i),i)],x)
 t=y.m
@@ -242,7 +242,7 @@ D.ap5=new A.dQ("\u062a\u0642\u0631\u064a\u0631 \u0627\u0644\u0645\u0637\u0639\u0
 D.ox=new A.ao(0,20,0,8)
 D.arX=new A.ao(2,0,2,0)
 D.bPR={today:0,yesterday:1,week:2,month:3}
-D.bKp=new A.ag(D.bPR,["\u0627\u0644\u064a\u0648\u0645","\u0623\u0645\u0633","\u0622\u062e\u0631 7 \u0623\u064a\u0627\u0645","\u0647\u0630\u0627 \u0627\u0644\u0634\u0647\u0631"],A.a_("ag<c,c>"))
+D.bKq=new A.ag(D.bPR,["\u0627\u0644\u064a\u0648\u0645","\u0623\u0645\u0633","\u0622\u062e\u0631 7 \u0623\u064a\u0627\u0645","\u0647\u0630\u0627 \u0627\u0644\u0634\u0647\u0631"],A.a_("ag<c,c>"))
 D.clH=new A.I("\u0644\u0627 \u0637\u0644\u0628\u0627\u062a \u0641\u064a \u0647\u0630\u0647 \u0627\u0644\u0641\u062a\u0631\u0629.",null,B.am,null,B.aM,null,null,null,null,null,null,null,null,null,null,null,null)
 D.bS1=new A.R(B.dY,D.clH,null)
 D.cbh=new A.K(!0,null,null,null,null,null,20,B.cv,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
@@ -256,4 +256,4 @@ D.crr=new A.n("rr-error",y.O)
 D.csm=new A.n("rr-peak",y.O)
 D.csz=new A.n("rr-avg",y.O)
 D.czD=new A.n("rr-net",y.O)})()};
-(a=>{a["40OT9FMbNLuNa4yB4ZpzrKvlrhk="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["xDwn0hyNqsDGZjRqvEnXb5pu0Z0="]=a.current})($__dart_deferred_initializers__);
