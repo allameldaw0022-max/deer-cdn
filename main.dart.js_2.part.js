@@ -1,6 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,D={
-kv(d){var y=A.fB(d),x=$.cTu()
+kv(d){var y=A.fC(d),x=$.cTx()
 y=A.U(y,x,"")
 x=A.aX("[\u0623\u0625\u0622\u0671]",!0,!1)
 y=A.U(y,x,"\u0627")
@@ -25,5 +25,5 @@ B.Ne=new A.cU(null,null,null,"\u0627\u0644\u0639\u0631\u0628\u0648\u0646 (\u0627
 B.Gy=new A.H("\u063a\u064a\u0651\u0631",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.nJ=new A.H("\u0644\u0627",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.ack=new A.H("\u0623\u0631\u0633\u0644 \u0648\u0627\u062a\u0633\u0627\u0628",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)})();(function lazyInitializers(){var y=a.lazyFinal
-y($,"dq3","cTu",()=>A.aX("[\u064b-\u065f\u0670\u0640]",!0,!1))})()};
-(a=>{a["noa4bVSdQZVhvNsugc8QjYXA7kY="]=a.current})($__dart_deferred_initializers__);
+y($,"dq8","cTx",()=>A.aX("[\u064b-\u065f\u0670\u0640]",!0,!1))})()};
+(a=>{a["bUzNtSs9V8TnPEk/xEL5+Hpqq14="]=a.current})($__dart_deferred_initializers__);
