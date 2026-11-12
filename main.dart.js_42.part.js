@@ -2,5 +2,5 @@
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B
 A=c[0]
 B=c[116]
-var z=a.updateTypes([]);(function constants(){B.N7=new A.cU(null,null,null,"\u0627\u0644\u0627\u0633\u0645",null,null,null,null,null,null,null,null,null,null,null,null,!0,!0,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null)})()};
-(a=>{a["1X2N2suEOWr0/1LZhmiY0XPJxXA="]=a.current})($__dart_deferred_initializers__);
+var z=a.updateTypes([]);(function constants(){B.N7=new A.cS(null,null,null,"\u0627\u0644\u0627\u0633\u0645",null,null,null,null,null,null,null,null,null,null,null,null,!0,!0,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null)})()};
+(a=>{a["apkCl7/HeWH5Wiiw2ry2nyMyTjQ="]=a.current})($__dart_deferred_initializers__);
