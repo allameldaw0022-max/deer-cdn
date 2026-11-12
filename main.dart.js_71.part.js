@@ -1,8 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B
 A=c[0]
-C=c[2]
-B=c[90]
-var z=a.updateTypes([]);(function constants(){B.a9w=new A.ey("\u0643\u0634\u0641 \u0627\u0644\u062d\u0633\u0627\u0628",null)
-B.abQ=new A.H("\u0625\u0644\u063a\u0627\u0621",null,C.f4,null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()};
-(a=>{a["pRJKP6ZmC9xmXSWhmN4z2nf2wQg="]=a.current})($__dart_deferred_initializers__);
+B=c[65]
+var z=a.updateTypes([]);(function constants(){B.fa=new A.H("\u062a\u0631\u0627\u062c\u0639",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()};
+(a=>{a["Ck5D8cmYFmZqSq1RWIkvM+0fITg="]=a.current})($__dart_deferred_initializers__);
