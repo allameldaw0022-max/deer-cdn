@@ -3,7 +3,7 @@ $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B
 A=c[0]
 C=c[2]
 B=c[96]
-var z=a.updateTypes([]);(function constants(){B.a9Q=new A.ez("\u0643\u0634\u0641 \u0627\u0644\u062d\u0633\u0627\u0628",null)
-B.MS=new A.aT(C.BR,18,null,null,null,null)
-B.acb=new A.H("\u0625\u0644\u063a\u0627\u0621",null,C.eK,null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()};
-(a=>{a["ve2bfJ+CKQKFRL/07iml6QuPwz8="]=a.current})($__dart_deferred_initializers__);
+var z=a.updateTypes([]);(function constants(){B.a9S=new A.ev("\u0643\u0634\u0641 \u0627\u0644\u062d\u0633\u0627\u0628",null)
+B.MR=new A.aT(C.BQ,18,null,null,null,null)
+B.acd=new A.H("\u0625\u0644\u063a\u0627\u0621",null,C.eK,null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()};
+(a=>{a["ALm0uiJ/Fd7OP4tJx2G3wtjnf+M="]=a.current})($__dart_deferred_initializers__);
