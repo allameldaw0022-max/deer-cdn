@@ -1,9 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B
 A=c[0]
-C=c[2]
-B=c[55]
-var z=a.updateTypes([])
-A.hW(b.typeUniverse,JSON.parse('{"Ej":{"P":[],"n":[]}}'));(function constants(){B.clF=new A.G("\u062a\u0645 \u062a\u0646\u0632\u064a\u0644 \u0645\u0644\u0641 \u0627\u0644\u0625\u0643\u0633\u0644.",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.abo=new A.fQ(B.clF,null,null,null,null,null,null,null,null,null,null,null,null,C.ad,!1,null,null,null,C.y,null)})()};
-(a=>{a["Ew7zU+5k4WoEXCwvb6GUQTrNJzM="]=a.current})($__dart_deferred_initializers__);
+B=c[73]
+var z=a.updateTypes([]);(function constants(){B.GG=new A.J(!0,null,null,null,null,null,null,null,null,null,null,null,1.7,null,null,null,null,null,null,null,null,null,null,null,null,null)})()};
+(a=>{a["xt+9IZtbBfOBesRG6Lmm1p2EJEo="]=a.current})($__dart_deferred_initializers__);
