@@ -1,9 +1,7 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C
 A=c[0]
-C=c[2]
-B=c[61]
-var z=a.updateTypes([])
-A.hw(b.typeUniverse,JSON.parse('{"Eq":{"R":[],"n":[]}}'));(function constants(){B.cmo=new A.G("\u062a\u0645 \u062a\u0646\u0632\u064a\u0644 \u0645\u0644\u0641 \u0627\u0644\u0625\u0643\u0633\u0644.",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.abv=new A.fH(B.cmo,null,null,null,null,null,null,null,null,null,null,null,null,C.ab,!1,null,null,null,C.y,null)})()};
-(a=>{a["qbW8LLYvHSj4Igkk2869NgSQpHI="]=a.current})($__dart_deferred_initializers__);
+B=c[2]
+C=c[50]
+var z=a.updateTypes([]);(function constants(){C.Kt=new A.a1(1,0.7176470588235294,0.4745098039215686,0.12156862745098039,B.J)})()};
+(a=>{a["//dNs+3gYcxYO4kSHx98OIVnY6o="]=a.current})($__dart_deferred_initializers__);
