@@ -1,17 +1,14 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
-cTk(d,e,f){var y,x,w,v,u,t="rest.no."+e,s=d.ez(t)
-if(s==null)s=""
-y=""+A.at(f)+"-"+B.f.aR(B.h.j(A.as(f)),2,"0")+"-"+B.f.aR(B.h.j(A.aJ(f)),2,"0")
-x=y+":"
-if(B.f.ai(s,x)){w=A.eS(B.f.ba(s,y.length+1),null)
-v=w==null?0:w}else v=0
-u=v+1
-d.a.bz("insert into meta(key, value) values (?, ?) on conflict(key) do update set value = excluded.value",[t,x+u])
-return u}},D
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C={
+ML(d){var y,x
+if(d==null)y=null
+else{x=A.aW("[^0-9+]",!0,!1)
+x=A.N(d,x,"")
+y=x}if(y==null)y=""
+return y.length>=6?A.ev("tel:"+y,0,null):null}},B
 A=c[0]
-B=c[2]
-C=a.updateHolder(c[28],C)
-D=c[66]
-var z=a.updateTypes([]);(function constants(){D.adB=new A.e("line-qty",A.a6("e<d>"))})()};
-(a=>{a["Do8So1hrH9pEEeN2CRIkEgbaGFk="]=a.current})($__dart_deferred_initializers__);
+C=a.updateHolder(c[47],C)
+B=c[86]
+var z=a.updateTypes([]);(function constants(){B.aCA=new A.b5(61210,"MaterialIcons",!1)
+B.CM=new A.aL(B.aCA,null,null,null,null,null)})()};
+(a=>{a["G55drUaSi5oBjuXzBHbRNw1j5fc="]=a.current})($__dart_deferred_initializers__);
