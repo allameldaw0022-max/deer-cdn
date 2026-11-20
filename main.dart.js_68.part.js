@@ -1,8 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B
 A=c[0]
-B=c[2]
-C=c[103]
-var z=a.updateTypes([]);(function constants(){C.NB=new A.cQ(null,null,null,"\u0631\u0642\u0645 \u0627\u0644\u062a\u0644\u0641\u0648\u0646 (\u0644\u0644\u0648\u0627\u062a\u0633\u0627\u0628)",null,null,null,null,null,null,null,null,null,null,null,null,!0,!0,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null)
-C.acl=new A.J(!0,B.B,null,null,null,null,12,B.a_,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()};
-(a=>{a["Wwn3izgxR0BWPSloe2YC+ub8EYE="]=a.current})($__dart_deferred_initializers__);
+B=c[102]
+var z=a.updateTypes([]);(function constants(){B.O9=new A.cQ(null,null,null,"\u0645\u0644\u0627\u062d\u0638\u0629 (\u0627\u062e\u062a\u064a\u0627\u0631\u064a)",null,null,null,null,null,null,null,null,null,null,null,null,!0,!0,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null)})()};
+(a=>{a["+9AZBHorxD3GLa/sHus0RY1Cvpg="]=a.current})($__dart_deferred_initializers__);
