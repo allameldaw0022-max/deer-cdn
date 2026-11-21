@@ -2,7 +2,7 @@
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C
 A=c[0]
 B=c[2]
-C=c[98]
-var z=a.updateTypes([]);(function constants(){C.Oj=new A.cP(null,null,null,"\u0631\u0642\u0645 \u0627\u0644\u062a\u0644\u0641\u0648\u0646 (\u0644\u0644\u0648\u0627\u062a\u0633\u0627\u0628)",null,null,null,null,null,null,null,null,null,null,null,null,!0,!0,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null)
-C.ad7=new A.K(!0,B.C,null,null,null,null,12,B.a0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()};
-(a=>{a["CRXMwU8rStRPltUldbdSfZiT52A="]=a.current})($__dart_deferred_initializers__);
+C=c[99]
+var z=a.updateTypes([]);(function constants(){C.Ol=new A.cM(null,null,null,"\u0631\u0642\u0645 \u0627\u0644\u062a\u0644\u0641\u0648\u0646 (\u0644\u0644\u0648\u0627\u062a\u0633\u0627\u0628)",null,null,null,null,null,null,null,null,null,null,null,null,!0,!0,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null)
+C.ad9=new A.K(!0,B.C,null,null,null,null,12,B.a0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()};
+(a=>{a["al9DvFURMSELcPZwLBG4IkafRdc="]=a.current})($__dart_deferred_initializers__);
