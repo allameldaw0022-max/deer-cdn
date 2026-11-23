@@ -1,7 +1,14 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C={
+N5(d){var y,x
+if(d==null)y=null
+else{x=A.aL("[^0-9+]",!0,!1)
+x=A.L(d,x,"")
+y=x}if(y==null)y=""
+return y.length>=6?A.e3("tel:"+y,0,null):null}},B
 A=c[0]
-B=c[93]
-var z=a.updateTypes([]);(function constants(){B.aaE=new A.C("payment","\u0635\u0631\u0641 \u0645\u0633\u062a\u062d\u0642\u0627\u062a")
-B.aaC=new A.C("advance","\u0633\u0644\u0641\u0629")})()};
-(a=>{a["Sn20cwp28wVyVKOLfTrM50w7oiY="]=a.current})($__dart_deferred_initializers__);
+C=a.updateHolder(c[47],C)
+B=c[87]
+var z=a.updateTypes([]);(function constants(){B.aDH=new A.bk(61210,"MaterialIcons",!1)
+B.D1=new A.aP(B.aDH,null,null,null,null,null)})()};
+(a=>{a["+eHvqPOp3VCZP8uZup5/Jpd3Bhg="]=a.current})($__dart_deferred_initializers__);
