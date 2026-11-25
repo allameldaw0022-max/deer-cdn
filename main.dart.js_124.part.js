@@ -176,7 +176,7 @@ return A.j($async$G3,w)},
 F3(d,e){return this.bar(d,e)},
 bar(d,e){var x=0,w=A.k(y.H),v=this,u,t,s
 var $async$F3=A.f(function(f,g){if(f===1)return A.h(g,w)
-for(;;)switch(x){case 0:t=e==="cutting"?D.bRg:D.bPH
+for(;;)switch(x){case 0:t=e==="cutting"?D.bRg:D.bPG
 s=v.c
 s.toString
 x=2
@@ -595,9 +595,9 @@ D.aH2=new A.c8("\u0643\u0644 \u0637\u0644\u0628 \xab\u0623\u064f\u0631\u0633\u06
 D.aHc=new A.c8("\xab\u0627\u0644\u062e\u064a\u0627\u0637\u0629 \u0641\u064a \u0627\u0644\u0645\u0634\u063a\u0644\xbb: \u0643\u0644 \u0637\u0644\u0628 \u062a\u0641\u0635\u064a\u0644 \u064a\u064f\u0633\u062c\u064e\u0651\u0644 \u0641\u064a \u0623\u064a \u0641\u0631\u0639 \u064a\u0635\u0644 \u0647\u0646\u0627 \u062a\u0644\u0642\u0627\u0626\u064a\u0627\u064b \u0628\u0645\u0642\u0627\u0633\u0627\u062a\u0647. \u0627\u0644\u0645\u0634\u063a\u0644 \u064a\u062d\u0631\u0651\u0643\u0647: \u0642\u0635 \u2190 \u062e\u064a\u0627\u0637\u0629 \u2190 \xab\u0623\u064f\u0631\u0633\u0644 \u0644\u0644\u0641\u0631\u0639\xbb\u060c \u0648\u0627\u0644\u0641\u0631\u0639 \u064a\u0636\u063a\u0637 \xab\u0648\u0635\u0644 \u0627\u0644\u0641\u0631\u0639\xbb \u0641\u064a\u0635\u064a\u0631 \u062c\u0627\u0647\u0632\u0627\u064b \u0644\u0644\u0632\u0628\u0648\u0646. \u0627\u0644\u0632\u0628\u0648\u0646 \u0648\u0627\u0644\u0639\u0631\u0628\u0648\u0646 \u0648\u0627\u0644\u0628\u0627\u0642\u064a \u064a\u0628\u0642\u0648\u0646 \u0641\u064a \u0627\u0644\u0641\u0631\u0639.",null)
 D.YE=x([],A.a7("y<Ct>"))
 D.bVz={single:0,group:1}
-D.bPH=new A.af(D.bVz,["\u062e\u064a\u0627\u0637\u0629 \u0641\u0631\u062f\u064a\u0629","\u062e\u064a\u0627\u0637\u0629 \u062c\u0645\u0627\u0639\u064a\u0629"],y.w)
-D.bVi={manual:0,machine:1}
-D.bRg=new A.af(D.bVi,["\u064a\u062f\u0648\u064a","\u0622\u0644\u064a (\u0645\u0643\u064a\u0646\u0629 \u0642\u0635)"],y.w)
+D.bPG=new A.af(D.bVz,["\u062e\u064a\u0627\u0637\u0629 \u0641\u0631\u062f\u064a\u0629","\u062e\u064a\u0627\u0637\u0629 \u062c\u0645\u0627\u0639\u064a\u0629"],y.w)
+D.bVj={manual:0,machine:1}
+D.bRg=new A.af(D.bVj,["\u064a\u062f\u0648\u064a","\u0622\u0644\u064a (\u0645\u0643\u064a\u0646\u0629 \u0642\u0635)"],y.w)
 D.crV=new A.E("\u062d\u064f\u0641\u0638\u062a \u0623\u0633\u0639\u0627\u0631 \u0627\u0644\u062a\u062d\u0648\u064a\u0644 \u2713",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 D.cfn=new A.fk(D.crV,null,null,null,null,null,null,null,null,null,null,null,null,B.a8,!1,null,null,null,B.y,null)
 D.cgU=new A.w2("\u062d\u0633\u0627\u0628 \u0627\u0644\u0641\u0631\u0648\u0639",null,null,null,null,null)
@@ -625,4 +625,4 @@ D.cLZ=new A.e("ws-prices-save",y.O)
 D.cMn=new A.e("ws-due-note",y.O)
 D.cOO=new A.e("ws-due-save",y.O)
 D.cPa=new A.e("ws-add-payment",y.O)})()};
-(a=>{a["09307NyGhXAX0jAE7owzXwtyIeo="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["OCfqek9UXtWTraE2nkaxu/m7cpM="]=a.current})($__dart_deferred_initializers__);

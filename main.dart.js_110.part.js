@@ -1054,7 +1054,7 @@ x=A.a([new A.hw(A.a([u.$2$b("\u0627\u0644\u0631\u0635\u064a\u062f",!0),u.$2$b("\
 B.e.v(x,r.z)
 s=r.a
 x.push(new A.hw(A.a([u.$2$b(A.A(s.a),!0),u.$2$b(A.A(s.b),!0),u.$2$b(A.A(s.c),!0),u.$1(""),u.$1(""),u.$3$b$center("\u0627\u0644\u0645\u062c\u0645\u0648\u0639",!0,!1),u.$1("")],o),D.Ju))
-x=A.a([n,new A.dl(q,8,q),m,new A.dl(q,8,q),A.AG(new C.bvz(v,v,v,v,v,v),x,D.bOZ)],o)
+x=A.a([n,new A.dl(q,8,q),m,new A.dl(q,8,q),A.AG(new C.bvz(v,v,v,v,v,v),x,D.bP_)],o)
 if(t.c.length===0)B.e.v(x,A.a([new A.dl(q,6,q),p.$2$color("\u0644\u0627 \u062a\u0648\u062c\u062f \u062d\u0631\u0643\u0627\u062a \u0641\u064a \u0647\u0630\u0647 \u0627\u0644\u0641\u062a\u0631\u0629.",B.c8)],o))
 if(t.d)B.e.v(x,A.a([new A.dl(q,6,q),p.$2$color("\u0627\u0644\u0641\u062a\u0631\u0629 \u0641\u064a\u0647\u0627 \u0623\u0643\u062b\u0631 \u0645\u0646 1000 \u062d\u0631\u0643\u0629: \u0639\u064f\u0631\u0636\u062a \u0623\u0648\u0644 1000. \u0627\u062e\u062a\u0631 \u0641\u062a\u0631\u0629 \u0623\u0642\u0635\u0631.",B.c8)],o))
 x.push(new A.dl(q,12,q))
@@ -1522,7 +1522,7 @@ D.YA=x([],A.a7("y<AI>"))
 D.bFx=x([],A.a7("y<xR>"))
 D.aBd=new A.kE(1.2)
 D.aBg=new A.kE(0.8)
-D.bOZ=new A.c4([0,B.l4,1,E.j2,2,E.j2,3,D.aBd,4,D.aBg,5,E.MV,6,B.hx],A.a7("c4<o,xQ>"))
+D.bP_=new A.c4([0,B.l4,1,E.j2,2,E.j2,3,D.aBd,4,D.aBg,5,E.MV,6,B.hx],A.a7("c4<o,xQ>"))
 D.bUZ={piece:0,salary:1,both:2}
 D.bR9=new A.af(D.bUZ,["\u0628\u0627\u0644\u0642\u0637\u0639\u0629","\u0631\u0627\u062a\u0628","\u0631\u0627\u062a\u0628 + \u0642\u0637\u0639\u0629"],A.a7("af<d,d>"))
 D.av_=new A.ao(16,0,16,8)
@@ -1572,4 +1572,4 @@ D.cNP=new A.e("salary",y.O)
 D.cON=new A.e("give-pieces-confirm",y.O)
 D.cOP=new A.e("pay-date",y.O)
 D.cP2=new A.e("weekly",y.O)})()};
-(a=>{a["UXtIwEx1s3FLxqQOsJvOpJnzh34="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["GF1aihmlQWfkfKEEHdduOQzeVZ8="]=a.current})($__dart_deferred_initializers__);

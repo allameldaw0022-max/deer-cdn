@@ -71,7 +71,7 @@ case 2:return A.h(t.at(-1),w)}})
 return A.j($async$DR,w)},
 H(d){var x,w,v,u,t=this,s=null,r=A.av(d,B.aC,y.A).w
 r=r.a.a>=1100?760:560
-x=A.a([new A.ed(D.bPB,t.w,new C.bAK(t),s,y.l),B.C],y.u)
+x=A.a([new A.ed(D.bPC,t.w,new C.bAK(t),s,y.l),B.C],y.u)
 w=t.Q
 if(w!=null)x.push(new A.c0(w,s))
 if(!t.y&&t.Q==null&&t.x.length===0)x.push(D.aHj)
@@ -80,7 +80,7 @@ if(t.y)x.push(B.qI)
 else if(t.z)x.push(A.aB(D.ct8,D.cPS,s,s,new C.bAL(t),s,s))
 return A.c5(new A.dv("\u0633\u062c\u0644 \u0627\u0644\u062a\u0639\u062f\u064a\u0644\u0627\u062a",B.mh,B.ar,s,s),s,A.ba(!0,A.bn(new A.bt(new A.as(0,r,0,1/0),A.bU(x,s,s,B.aH,s,B.T,!1),s),s,s),!0,B.M,!0,!0),s,s)}}
 C.aJX.prototype={
-H(d){var x,w,v,u,t,s,r,q,p,o,n=null,m=this.c,l=D.bS2.h(0,m.b)
+H(d){var x,w,v,u,t,s,r,q,p,o,n=null,m=this.c,l=D.bS3.h(0,m.b)
 if(l==null)l=B.au
 x=m.a
 w=B.au.h6(0.2)
@@ -138,9 +138,9 @@ A.i7(b.typeUniverse,JSON.parse('{"GK":{"T":[],"n":[]},"aAI":{"a4":["GK"]},"aJX":
 var y={x:A.a7("xa"),g:A.a7("y<Cl>"),u:A.a7("y<n>"),A:A.a7("hB"),l:A.a7("ed<d>"),q:A.a7("e<d>"),o:A.a7("e_?"),v:A.a7("~")};(function constants(){D.cK4=new A.e("log-empty",y.q)
 D.aHj=new A.c8("\u0644\u0627 \u062a\u0648\u062c\u062f \u0639\u0645\u0644\u064a\u0627\u062a \u0641\u064a \u0627\u0644\u0633\u062c\u0644 \u0628\u0639\u062f.",D.cK4)
 D.bVw={all:0,cancel:1,stock:2,cash:3,settings:4}
-D.bPB=new A.af(D.bVw,["\u0627\u0644\u0643\u0644","\u0627\u0644\u0625\u0644\u063a\u0627\u0621\u0627\u062a","\u0627\u0644\u0645\u062e\u0632\u0648\u0646","\u0627\u0644\u0635\u0646\u062f\u0648\u0642 \u0648\u0627\u0644\u0628\u0646\u0643","\u0627\u0644\u0625\u0639\u062f\u0627\u062f\u0627\u062a"],A.a7("af<d,d>"))
+D.bPC=new A.af(D.bVw,["\u0627\u0644\u0643\u0644","\u0627\u0644\u0625\u0644\u063a\u0627\u0621\u0627\u062a","\u0627\u0644\u0645\u062e\u0632\u0648\u0646","\u0627\u0644\u0635\u0646\u062f\u0648\u0642 \u0648\u0627\u0644\u0628\u0646\u0643","\u0627\u0644\u0625\u0639\u062f\u0627\u062f\u0627\u062a"],A.a7("af<d,d>"))
 D.bVT={cancel:0,stock:1,cash:2,settings:3}
-D.bS2=new A.af(D.bVT,[B.ae,E.L2,B.z,B.au],A.a7("af<d,a0>"))
+D.bS3=new A.af(D.bVT,[B.ae,E.L2,B.z,B.au],A.a7("af<d,a0>"))
 D.ct8=new A.E("\u0639\u0631\u0636 \u0627\u0644\u0645\u0632\u064a\u062f",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 D.cPS=new A.e("log-more",y.q)})()};
-(a=>{a["l1JP25YZDSGJ1Yq+ua3eAAxbXRQ="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["Pka2IAZtMgzXTXanGXyIdrYO1JM="]=a.current})($__dart_deferred_initializers__);

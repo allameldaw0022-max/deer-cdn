@@ -207,7 +207,7 @@ s=s.a.a>=1100?760:560
 x=u.w
 w=u.x
 v=q.b
-return A.c5(new A.dv("\u0627\u0644\u0642\u0648\u0627\u0626\u0645 \u0627\u0644\u0645\u0627\u0644\u064a\u0629",C.mg,C.ar,t,t),t,A.ba(!0,A.bn(new A.bt(new A.as(0,s,0,1/0),A.bU(A.a([new A.ed(F.a5q,x,new B.cfG(u),t,y.F),C.K,new A.ed(D.bS0,w,new B.cfH(u),t,y.P),C.K,A.l(w===D.GP?"\u0645\u0646 "+A.f0(q.a)+" \u0625\u0644\u0649 "+A.f0(v):"\u0643\u0645\u0627 \u0641\u064a "+A.f0(v),t,t,t,t,C.ad,t,t),C.C,A.fs(r,new B.cfI(u,q),new B.cfJ(u),new B.cfK(),!0)],y.p),t,t,C.aH,t,C.T,!1),t),t,t),!0,C.M,!0,!0),t,t)}}
+return A.c5(new A.dv("\u0627\u0644\u0642\u0648\u0627\u0626\u0645 \u0627\u0644\u0645\u0627\u0644\u064a\u0629",C.mg,C.ar,t,t),t,A.ba(!0,A.bn(new A.bt(new A.as(0,s,0,1/0),A.bU(A.a([new A.ed(F.a5q,x,new B.cfG(u),t,y.F),C.K,new A.ed(D.bS1,w,new B.cfH(u),t,y.P),C.K,A.l(w===D.GP?"\u0645\u0646 "+A.f0(q.a)+" \u0625\u0644\u0649 "+A.f0(v):"\u0643\u0645\u0627 \u0641\u064a "+A.f0(v),t,t,t,t,C.ad,t,t),C.C,A.fs(r,new B.cfI(u,q),new B.cfJ(u),new B.cfK(),!0)],y.p),t,t,C.aH,t,C.T,!1),t),t,t),!0,C.M,!0,!0),t,t)}}
 B.mb.prototype={
 H(d){var x,w,v,u=this,t=null,s=u.e,r=s?C.Au:C.ac,q=C.au.h6(0.2),p=s?C.a1:C.bM
 p=A.ap(A.l(u.c,t,t,t,t,A.bu(t,t,t,t,t,t,t,t,t,t,t,s?16:15,t,t,p,t,t,!0,t,t,t,t,t,t,t,t),t,t),1,t)
@@ -397,7 +397,7 @@ D.VH=x([D.akT],A.a7("y<PP>"))
 D.GP=new B.AD(0,"income")
 D.cfY=new B.AD(1,"balance")
 D.cfZ=new B.AD(2,"trial")
-D.bS0=new A.c4([D.GP,"\u0642\u0627\u0626\u0645\u0629 \u0627\u0644\u062f\u062e\u0644",D.cfY,"\u0627\u0644\u0645\u064a\u0632\u0627\u0646\u064a\u0629",D.cfZ,"\u0645\u064a\u0632\u0627\u0646 \u0627\u0644\u0645\u0631\u0627\u062c\u0639\u0629"],A.a7("c4<AD,d>"))
+D.bS1=new A.c4([D.GP,"\u0642\u0627\u0626\u0645\u0629 \u0627\u0644\u062f\u062e\u0644",D.cfY,"\u0627\u0644\u0645\u064a\u0632\u0627\u0646\u064a\u0629",D.cfZ,"\u0645\u064a\u0632\u0627\u0646 \u0627\u0644\u0645\u0631\u0627\u062c\u0639\u0629"],A.a7("c4<AD,d>"))
 D.aw2=new A.c0("\u0627\u0644\u0645\u064a\u0632\u0627\u0646\u064a\u0629 \u063a\u064a\u0631 \u0645\u062a\u0648\u0627\u0632\u0646\u0629. \u062a\u0648\u0627\u0635\u0644 \u0645\u0639 \u0627\u0644\u062f\u0639\u0645 \u0627\u0644\u0641\u0646\u064a.",null)
 D.bXg=new A.O(C.cW,D.aw2,null)
 D.czi=new A.e("bs-balanced",y.O)
@@ -420,4 +420,4 @@ D.cUO=new B.G1("\u0627\u0644\u0645\u0635\u0631\u0648\u0641\u0627\u062a",null)
 D.cUP=new B.G1("\u0627\u0644\u062e\u0635\u0648\u0645 (\u0645\u0627 \u0639\u0644\u0649 \u0627\u0644\u0645\u062a\u062c\u0631)",null)
 D.cUQ=new B.G1("\u0627\u0644\u0623\u0635\u0648\u0644 (\u0645\u0627 \u064a\u0645\u0644\u0643\u0647 \u0627\u0644\u0645\u062a\u062c\u0631)",null)})();(function lazyInitializers(){var x=a.lazyFinal
 x($,"dG6","cQg",()=>C.bh.ow(0,new B.cwn(),y.M,A.a7("mB")))})()};
-(a=>{a["uUewWG+Xklh7Hv7pJ62s4ImJiGw="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["83uEqcAEss9vFDIPbMsLGVVFc6s="]=a.current})($__dart_deferred_initializers__);
