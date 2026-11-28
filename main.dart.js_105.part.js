@@ -965,7 +965,7 @@ t=A.a([A.cs(i,i,i,D.aGi,i,i,new B.coe(j),i,i,i,"\u0627\u0644\u0645\u0642\u0627\u
 h=h.C($.a3(),y.Y)
 s=h==null?i:h.r
 if(s==="owner"||s==="manager")t.push(A.cs(i,i,i,M.Dj,i,D.cR1,new B.cog(j),i,i,i,"\u0627\u0644\u0645\u0648\u062f\u064a\u0644\u0627\u062a \u0648\u0627\u0644\u062a\u0643\u0644\u0641\u0629",i))
-if($.r().f==="SD")t.push(A.cs(i,i,i,L.Ol,i,D.cLx,new B.coi(j),i,i,i,"\u0625\u0639\u062f\u0627\u062f\u0627\u062a \u0627\u0644\u0645\u0642\u0627\u0633\u0627\u062a",i))
+t.push(A.cs(i,i,i,L.Ol,i,D.cLx,new B.coi(j),i,i,i,"\u0625\u0639\u062f\u0627\u062f\u0627\u062a \u0627\u0644\u0645\u0642\u0627\u0633\u0627\u062a",i))
 t.push(A.hk(F.OA,D.cSR,D.aeM,new B.coj(j)))
 h=A.fu(t,i,i,i,i,i,i,i,e,i)
 e=A.r3(i,i,C.d2,D.cHs,L.ael,new B.cok(j))
@@ -1654,4 +1654,4 @@ D.cS9=new A.e("rename-ok",y.O)
 D.cSI=new A.e("factory-qty",y.O)
 D.cSR=new A.e("new-factory",y.O)
 D.cTm=new A.e("add-custom-measure",y.O)})()};
-(a=>{a["l4VPGm0nFaKirikzpfMOL8xx1CE="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["DZVYBFUugYs3OEgXiOF21EwBRho="]=a.current})($__dart_deferred_initializers__);
